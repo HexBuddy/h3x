@@ -1,0 +1,44 @@
+----------------------------------------------------
+GNU/Linux v6.6.10
+----------------------------------------------------
+&nbsp;
+Press [ESC] to exit
+&nbsp;
+<span id="a">\\Root\localhost&gt;</span><span id="b">login <!-- -->HexBuddy</span>
+&nbsp;
+Enter Your Username: HexBuddy
+Enter Your Password: *********
+<span style="color: transparent">John Locke : “Don’t tell me what I can’t do.” </span>
+Login session was successful. <span id="k">Welcome, HexBuddy!</span>
+&nbsp;
+<span id="a">\\Root\localhost\HexBuddy&gt;</span><!-- A Wttx Vwvpz Rwjgpb Kwm --><span id="b">view Info.txt</span>
+Receiving submitted information...
+<span style="color: transparent">“So I just made a choice. I would let the fear in, let it take over, let it do it’s thing. But only for five seconds. That’s all I was going to give it.”</span>
+Hello, I'm Abdulrahman Maher, but you can call me HexBuddy (I'd actually prefer to call me this). An average person on the internet who hangs out with friends on <span id="c" onclick="copyToClipboard('HexBuddy127001')">Telegram</span> and enjoys Playing CTF, Discovreing The Hidden
+World Of Dark Web/APTs and Programming Malware / Analysing It.
+I love traveling and going to nature whenever getting a chance!
+MMA Fighting is my passion. I'll be happy if you come to <span id="c"><a href="https://github.com/HexBuddy" target="_blank">my GitHub profile</a></span> and check my projects!
+Want to know me more? Then let us be friends!
+&nbsp;
+<span id="a">\\Root\localhost\HexBuddy&gt;</span><span id="b"><!--  | -->view prof.json</span>
+{
+    Age: "<span id="c">18 years old</span>",
+    Cybersecurity: "<span id="c">Self Taught Since 15 Years old | University Freshman</span>",
+    C++: "<span id="c">Junior Developer</span>",
+    Malware Analysis/Dev: "<span id="c">Junior Researcher</span>",
+    Other Interests: "<span id="c">GYM / Philosophy / Quantam Mechanics / Relegion / Eating Indomie While While Watching 90 Years old Politicians lie</span>"
+}
+&nbsp;
+<span id="a">\\Root\localhost\HexBuddy&gt;</span><span id="b"><!-- -->view links.json</span>
+{
+    instagram: "<span id="c">hex_buddy</span>",
+    Telegram: "<span id="c">HexBuddy127001</span>",
+    GitHub: "<span id="c">HexBuddy</span>",
+    Email: "<span id="c">crazyasscop@gmail.com</span>"
+}
+&nbsp;
+<span id="a">\\Root\localhost\HexBuddy&gt;</span><span id="b">logout</span>
+<span style="color: transparent">Shut up. Which means a lot of you have been breaking the first two rules of Fight Club.</span>
+Successfully logged out! Hope you have a wonderful day on GNU/Linux!
+&nbsp;
+<span id="a">\\Root\localhost&gt;&nbsp;</span>
