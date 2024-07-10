@@ -17,7 +17,7 @@ Always Remember, Take the World From Another Point of View
 <span id="a">\\Root\localhost\HexBuddy&gt;</span><!-- A Wttx Vwvpz Rwjgpb Kwm --><span id="b">view Info.txt</span>
 Receiving submitted information...
 <span style="color: transparent">“So I just made a choice. I would let the fear in, let it take over, let it do it’s thing. But only for five seconds. That’s all I was going to give it.”</span>
-Hello, I'm Abdulrahman Maher, but you can call me HexBuddy (I'd actually prefer to call me this). An average person on the internet who hangs out with friends on <span id="c" onclick="copyToClipboard('HexBuddy127001')">Telegram</span> and enjoys Playing CTF, Discovreing The Hidden
+Hello, I'm Abdulrahman , but you can call me HexBuddy (I'd actually prefer to call me this). An average person on the internet who hangs out with friends on <span id="c" onclick="copyToClipboard('HexBuddy127001')">Telegram</span> and enjoys Playing CTF, Discovreing The Hidden
 World Of Dark Web/APTs and Programming Malware / Analysing It.
 I love traveling and going to nature whenever getting a chance!
 Computers is my passion. I'll be happy if you come to <span id="c"><a href="https://github.com/HexBuddy" target="_blank">my GitHub profile</a></span> and check my projects!
