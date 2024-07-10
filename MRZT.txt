@@ -10,6 +10,9 @@ Enter Your Username: HexBuddy
 Enter Your Password: *********
 <span style="color: transparent">John Locke : “Don’t tell me what I can’t do.” </span>
 Login session was successful. <span id="k">Welcome, HexBuddy!</span>
+
+Always Remember, Take the World From Another Point of View
+
 &nbsp;
 <span id="a">\\Root\localhost\HexBuddy&gt;</span><!-- A Wttx Vwvpz Rwjgpb Kwm --><span id="b">view Info.txt</span>
 Receiving submitted information...
@@ -17,7 +20,7 @@ Receiving submitted information...
 Hello, I'm Abdulrahman Maher, but you can call me HexBuddy (I'd actually prefer to call me this). An average person on the internet who hangs out with friends on <span id="c" onclick="copyToClipboard('HexBuddy127001')">Telegram</span> and enjoys Playing CTF, Discovreing The Hidden
 World Of Dark Web/APTs and Programming Malware / Analysing It.
 I love traveling and going to nature whenever getting a chance!
-MMA Fighting is my passion. I'll be happy if you come to <span id="c"><a href="https://github.com/HexBuddy" target="_blank">my GitHub profile</a></span> and check my projects!
+Computers is my passion. I'll be happy if you come to <span id="c"><a href="https://github.com/HexBuddy" target="_blank">my GitHub profile</a></span> and check my projects!
 Want to know me more? Then let us be friends!
 &nbsp;
 <span id="a">\\Root\localhost\HexBuddy&gt;</span><span id="b"><!--  | -->view prof.json</span>
@@ -26,7 +29,7 @@ Want to know me more? Then let us be friends!
     Cybersecurity: "<span id="c">Self Taught Since 15 Years old | University Freshman</span>",
     C++: "<span id="c">Junior Developer</span>",
     Malware Analysis/Dev: "<span id="c">Junior Researcher</span>",
-    Other Interests: "<span id="c">GYM / Philosophy / Quantam Mechanics / Relegion / Eating Indomie While While Watching 90 Years old Politicians lie</span>"
+    Other Interests: "<span id="c">GYM / Philosophy / Quantam Mechanics / Relegion / Cats</span>"
 }
 &nbsp;
 <span id="a">\\Root\localhost\HexBuddy&gt;</span><span id="b"><!-- -->view links.json</span>
@@ -34,7 +37,6 @@ Want to know me more? Then let us be friends!
     instagram: "<span id="c">hex_buddy</span>",
     Telegram: "<span id="c">HexBuddy127001</span>",
     GitHub: "<span id="c">HexBuddy</span>",
-    Email: "<span id="c">crazyasscop@gmail.com</span>"
 }
 &nbsp;
 <span id="a">\\Root\localhost\HexBuddy&gt;</span><span id="b">logout</span>
