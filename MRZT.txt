@@ -29,7 +29,7 @@ Want to know me more? Then let us be friends!
     Cybersecurity: "<span id="c">Self Taught Since 15 Years old | University Freshman</span>",
     C++: "<span id="c">Junior Developer</span>",
     Malware Analysis/Dev: "<span id="c">Junior Researcher</span>",
-    Other Interests: "<span id="c">GYM / Philosophy / Quantam Mechanics / Relegion / Cats</span>"
+    Other Interests: "<span id="c">GYM / Philosophy / Relegion / Cats</span>"
 }
 &nbsp;
 <span id="a">\\Root\localhost\HexBuddy&gt;</span><span id="b"><!-- -->view links.json</span>
